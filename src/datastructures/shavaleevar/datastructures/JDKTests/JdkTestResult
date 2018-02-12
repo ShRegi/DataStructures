@@ -1,0 +1,23 @@
+-----------------------ADD---------------------------
+JdkListsPerformanceTest.testAddBeginningTime
+ArrayList add: 10324
+LinkedList add: 25
+JdkListsPerformanceTest.testAddMiddleTime
+ArrayList add: 298819
+LinkedList add: 1546425
+JdkListsPerformanceTest.testAddEndTime
+ArrayList add: 41
+LinkedList add: 24
+-----------------------------------------------------
+
+-----------------------REMOVE------------------------
+JdkListsPerformanceTest.testRemoveBeginningTime
+ArrayList remove: 9872
+LinkedList remove: 11
+JdkListsPerformanceTest.testRemoveMiddleTime
+ArrayList remove: 248720
+LinkedList remove: 1345278
+JdkListsPerformanceTest.testRemoveEndTime
+ArrayList remove: 249532
+LinkedList remove: 1428900
+-----------------------------------------------------

@@ -1,0 +1,31 @@
+--------------------Add Test-----------------------
+DynamicArrayPerformanceTest.testAddBeginningTime
+ArrayList add: 5885
+DynamicArray add: 5236
+        Difference: 11%
+DynamicArrayPerformanceTest.testAddMiddleTime
+ArrayList add: 4940
+DynamicArray add: 4944
+        Difference: 0%
+DynamicArrayPerformanceTest.testAddEndTime
+ArrayList add: 4886
+DynamicArray add: 4900
+        Difference: 0%
+
+---------------------------------------------------
+
+
+--------------------Remove Test--------------------
+DynamicArrayPerformanceTest.testRemoveBeginningTime
+ArrayList remove: 7791
+DynamicArray remove: 7818
+        Difference: 0%
+DynamicArrayPerformanceTest.testRemoveMiddleTime
+ArrayList remove: 2634
+DynamicArray remove: 2556
+        Difference: 2%
+DynamicArrayPerformanceTest.testRemoveEndTime
+ArrayList remove: 2509
+DynamicArray remove: 2887
+        Difference: 13%
+---------------------------------------------------

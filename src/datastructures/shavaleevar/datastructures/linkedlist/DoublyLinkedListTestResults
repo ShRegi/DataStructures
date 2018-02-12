@@ -1,0 +1,29 @@
+-----------------------ADD---------------------------
+DoublyLinkedListPerformanceTest.testAddBeginningTime
+DoublyLinkedList add: 2157
+LinkedList add: 2515
+        Difference: 14%
+DoublyLinkedListPerformanceTest.testAddMiddleTime
+DoublyLinkedList add: 3187
+LinkedList add: 2828
+        Difference: 11%
+DoublyLinkedListPerformanceTest.testAddEndTime
+DoublyLinkedList add: 3047
+LinkedList add: 2531
+        Difference: 16%
+-----------------------------------------------------
+
+----------------------REMOVE-------------------------
+DoublyLinkedListPerformanceTest.testRemoveBeginningTime
+DoublyLinkedList remove: 4044
+LinkedList remove: 4237
+        Difference: 4%
+DoublyLinkedListPerformanceTest.testRemoveMiddleTime
+DoublyLinkedList remove: 2996
+LinkedList remove: 2845
+        Difference: 5%
+DoublyLinkedListPerformanceTest.testRemoveEndTime
+DoublyLinkedList remove: 2809
+LinkedList remove: 2690
+        Difference: 4%
+-----------------------------------------------------

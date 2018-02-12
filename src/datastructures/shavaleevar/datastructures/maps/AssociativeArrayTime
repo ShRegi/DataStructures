@@ -1,0 +1,11 @@
+AssociativeArray Add: 3945
+Map Add: 3667
+    Difference: 7%
+
+AssociativeArray Remove: 3484
+Map Remove: 3454
+    Difference: 0%
+
+AssociativeArray Get: 3006
+Map Get: 3511
+    Difference: 14%
